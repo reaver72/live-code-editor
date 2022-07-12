@@ -1,2 +1,2 @@
 ## Live Code Editor With Compiler
-![Create Room](/screenshots/live1.png?raw=true "HomePage")
+![](https://raw.github.com/rawbeen72/live-code-editor/main/screenshots/live1.png?raw=true "HomePage")
